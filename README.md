@@ -19,8 +19,7 @@ It reverses the character array using Array.Reverse(stringArray);.
 It creates a new string from the reversed character array using string reversedString = new string(stringArray);.
 
 # Output Original and Reversed Strings:
-The program outputs the original input string using Console.WriteLine($"Inserted String: {insertedWords}\n");.
-It outputs the reversed string using Console.WriteLine($"Reversed String: {reversedString}");.
+The program outputs the original input string using Console.WriteLine($"Inserted String: {insertedWords}\n");. It outputs the reversed string using Console.WriteLine($"Reversed String: {reversedString}");.
 
 # Palindrome Checking: 
 The program checks whether the reversed string is the same as the original input string to determine if it's a palindrome. This is done using bool checkPalindrome = reversedString == insertedWords;.
