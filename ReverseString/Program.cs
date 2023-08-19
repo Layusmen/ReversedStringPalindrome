@@ -11,7 +11,7 @@
             char[] stringArray = insertedWords.ToCharArray();
             Array.Reverse(stringArray);
             string reversedString = new string(stringArray);
-            
+
             Console.WriteLine($"Inserted String : {insertedWords}\n");
             Console.WriteLine($"Reversed String : {reversedString}");
 
