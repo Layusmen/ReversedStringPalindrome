@@ -1,4 +1,4 @@
-# ReversedStringPalindrome
+# Reversed String Palindrome
 Project on Reverse String Palindrome. 
 This code is a C# program that takes a user input string, reverses it, and then checks whether the reversed string is a palindrome (reads the same forwards and backwards).
 Here's a step-by-step breakdown of the code:
