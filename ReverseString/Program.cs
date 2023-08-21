@@ -9,7 +9,7 @@
             string wordEntered = Console.ReadLine().ToUpper();
 
             //Reverse the string using loop
-            string reversedString = "";
+            string reversedString = string.Empty;
             for (int i = wordEntered.Length - 1; i >= 0; i--)
             {
                 reversedString += wordEntered[i];
